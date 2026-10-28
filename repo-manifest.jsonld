@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/Textualize/textual-ganglion",
+  "@type": "gh:Repository",
+  "gh:name": "textual-ganglion",
+  "gh:owner": "Textualize",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/Textualize/textual-ganglion/commit/85e1aad97ebd3e8ac5879358fdba13d62817edc3",
+      "git:hexsha": "85e1aad97ebd3e8ac5879358fdba13d62817edc3",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
