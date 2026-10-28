@@ -1,0 +1,7 @@
+[2026-10-28T12:47:45Z] === AST ITERATION 1 START | repo=Textualize/textual-ganglion sha=85e1aad9 ===
+[2026-10-28T12:47:45Z] [iter=1] PHASE START: ast repo=Textualize/textual-ganglion sha=85e1aad9
+[2026-10-28T12:47:45Z] [iter=1] Building AST aggregate chunks
+[2026-10-28T12:51:21Z] [iter=1] AST chunks built count=1 triples=1344544
+[2026-10-28T12:51:21Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/85e1aad97ebd3e8ac5879358fdba13d62817edc3/.complete
+[2026-10-28T12:51:21Z] [iter=1] PHASE END: ast elapsed_s=216 elapsed_min=3.6
+[2026-10-28T12:51:21Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
